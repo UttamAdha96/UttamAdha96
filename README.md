@@ -1,3 +1,7 @@
+![UTTAM ADHA](https://user-images.githubusercontent.com/101659796/232326803-cd6735b3-c8e3-40e1-9e7e-47c0b5b146d3.png)
+
+
+
 - 👋 Hi, I’m @UttamAdha96
 - 👀 I’m interested in web devlopment,AIML.
 - 🌱 I’m currently learning web devlopment
