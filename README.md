@@ -1,4 +1,5 @@
-![UTTAM ADHA](https://user-images.githubusercontent.com/101659796/232326803-cd6735b3-c8e3-40e1-9e7e-47c0b5b146d3.png)
+![1](https://github.com/UttamAdha96/UttamAdha96/assets/101659796/db34086f-5a4a-435a-92a9-0c72b4eacd8d)
+
 
 
 
