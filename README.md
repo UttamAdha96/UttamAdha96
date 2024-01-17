@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m @UttamAdha96
-- 👀 I’m interested in Data Science and front-web developer roles.
-- 🌱 I’m currently learning Data science and AIML.
+- 👀 I’m interested in Java development and full Stack-web developer roles.
+- 🌱 I’m currently learning Java full Stack Development.
 - 💞️ I’m looking to collaborate on data analytics and web developer related projects.
 - 📫 How to reach me -DM me on LinkedIn id: @uttam_adha or mail uttamadha9622@gmail.com
 
